@@ -1,0 +1,18 @@
+System info has been gathered. here is the summary:
+02/20/2024 19:50:24 CST
+alden
+/c/Users/alden/documents/GitHub/CSC2510Fork/system_info
+top - 19:50:24 up 5 days,  1:06,  0 users,  load average: 0.31, 0.28, 0.39
+Tasks:   4 total,   1 running,   3 sleeping,   0 stopped,   0 zombie
+Cpu(s):  0.2%us,  0.1%sy,  0.0%ni, 99.7%id,  0.0%wa,  0.0%hi,  0.0%si,  0.0%st
+Mem:  33274660k total, 15901608k used, 17373052k free,        0k buffers
+Swap:  4980736k total,    93380k used,  4887356k free,        0k cached
+
+  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND                                                                                                                                              
+  917 alden     20   0  5888 6848 1856 R   11  0.0   0:00.09 top                                                                                                                                                  
+  802 alden     20   0 11072  20m 6016 S    0  0.1   0:02.76 mintty                                                                                                                                               
+  913 alden     20   0  7232 8896 2048 S    0  0.0   0:00.00 bash                                                                                                                                                 
+  803 alden     20   0  7424  10m 2560 S    0  0.0   0:00.07 bash                                                                                                                                                 
+
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  1.9T  1.1T  825G  56% /
